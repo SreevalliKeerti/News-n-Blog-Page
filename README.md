@@ -1,6 +1,6 @@
 # SamplePage
 
-This a sample page which is a replica of the [https://organics.axiomthemes.com/all-posts/](https://organics.axiomthemes.com/all-posts/) page.
+This a sample page which is a replica of the [https://organics.axiomthemes.com/all-posts/](https://organics.axiomthemes.com/all-posts/) page.<br/>
 Link for the page: [https://sreevallikeerti.github.io/SamplePage](https://sreevallikeerti.github.io/SamplePage).
 
 ## Sample Images
